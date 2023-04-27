@@ -1,13 +1,10 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Ivan </h1>
+    <h1>Hi there, I'm Vitaly </h1>
     <h3>Full Stack Developer from New York</h3>
 </div>
 
 <div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="twitter-url">
+  <a href="gmail-url">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="telegram-url">
