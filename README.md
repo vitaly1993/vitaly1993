@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="vitalyprotsenko1993@gmail.com">
+  <a href="mailto:vitalyprotsenko1993@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="telegram-url">
